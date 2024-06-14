@@ -113,4 +113,9 @@ public class LibraryController {
     }
 
 
+    public void newFunc(){
+
+    }
+
+
 }
